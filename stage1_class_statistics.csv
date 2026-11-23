@@ -1,0 +1,10 @@
+Class ID,Class Code,Description,Images Containing,Total BBoxes,BBox Share (%),Mean W (px),Mean H (px),Small (<32px) (%)
+0,SH,Short (Ngắn mạch),604,915,4.51,30.0,27.0,0.1
+1,SP,Spur (Gai đồng),2186,4584,22.61,16.3,14.1,35.0
+2,SC,Spurious Copper (Đồng thừa),1317,1593,7.86,22.2,23.9,10.0
+3,OP,Open (Hở mạch),1420,1770,8.73,26.0,27.5,5.4
+4,MB,Mouse Bite (Khuyết cạnh/Chân chuột),1873,2529,12.47,16.5,15.7,33.0
+5,HB,Hole Breakout (Lệch/Vỡ lỗ khoan),1290,2883,14.22,41.1,41.1,0.0
+6,CS,Conductor Scratch (Xước đường mạch),1487,2490,12.28,85.8,74.4,2.7
+7,CFO,Conductor Foreign Object (Dị vật trên mạch),1352,1832,9.04,36.9,37.9,11.1
+8,BMFO,Base Material Foreign Object (Dị vật trên nền),1484,1680,8.29,27.2,29.3,17.7

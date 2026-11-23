@@ -1,0 +1,4 @@
+split,images,boxes,missing_label_files,empty_label_files,invalid_lines
+train,7181,14138,0,0,0
+val,1539,3037,0,0,0
+test,1539,3101,0,0,0

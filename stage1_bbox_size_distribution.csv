@@ -1,0 +1,4 @@
+Size Category (at 640x640),BBox Count,Ratio (%)
+Medium (32..96),10482,51.7
+Large (>=96x96),6529,32.2
+Small (<32x32),3265,16.1

@@ -1,0 +1,15 @@
+path: /kaggle/working/dspcbsd_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 9
+names:
+  0: SH
+  1: SP
+  2: SC
+  3: OP
+  4: MB
+  5: HB
+  6: CS
+  7: CFO
+  8: BMFO

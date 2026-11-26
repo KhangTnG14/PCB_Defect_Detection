@@ -210,8 +210,11 @@ def make_epoch_logger(csv_path: str | Path, logger: logging.Logger | None = None
     state = {"t_last": time.time(), "t0": time.time()}
 
     def _cb(trainer):
+        if trainer.epoch >= trainer.epochs:   # bỏ qua lần gọi sau validate cuối
+            return
         now = time.time()
         dt = now - state["t_last"]
+        
         state["t_last"] = now
         mem = 0.0
         try:

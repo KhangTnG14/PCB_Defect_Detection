@@ -1,0 +1,3 @@
+Model,Epochs_Run,Mean_Epoch_Time (s),Total_Train_Time (min),Est_80_Epochs (hours),Peak_VRAM (GB)
+yolov8s_640_s42,51,99.5,84.5,2.21,3.53
+yolo11s_640_s42,51,96.8,82.3,2.15,4.07

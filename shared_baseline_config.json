@@ -1,0 +1,13 @@
+{
+  "IMGSZ": 640,
+  "EPOCHS": 50,
+  "BATCH": 16,
+  "SEED": 42,
+  "WORKERS": 2,
+  "DEVICE": 0,
+  "PATIENCE": 25,
+  "SAVE_PERIOD": 10,
+  "TRAIN_EXTRA": {
+    "cos_lr": true
+  }
+}
